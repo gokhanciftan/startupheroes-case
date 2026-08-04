@@ -101,7 +101,7 @@ Kafka Topic
 - Order In Time calculation
 - Kafka Producer implementation
 - Automatic Kafka topic creation
-- Startup execution using CommandLineRunner
+- Startup execution using StartupRunner
 - Report generation after publishing
 
 ---
