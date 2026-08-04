@@ -1,0 +1,108 @@
+==========================================
+          STARTUP HEROES CASE
+==========================================
+
+Generated At             : 2026-08-04 16:50:35
+
+Total Orders in Database : 20
+Orders in Last 7 Days    : 10
+On Time Deliveries       : 5
+Late Deliveries          : 5
+
+==========================================
+ORDER DETAILS
+==========================================
+
+Order ID            : 1
+Created At          : 2026-08-03 16:50:34
+Collection Duration : 10
+Delivery Duration   : 15
+Lead Time           : 40
+ETA                 : 40
+Order In Time       : true
+------------------------------------------
+
+Order ID            : 2
+Created At          : 2026-08-03 13:50:34
+Collection Duration : 12
+Delivery Duration   : 18
+Lead Time           : 45
+ETA                 : 45
+Order In Time       : true
+------------------------------------------
+
+Order ID            : 3
+Created At          : 2026-08-02 16:50:34
+Collection Duration : 15
+Delivery Duration   : 15
+Lead Time           : 45
+ETA                 : 45
+Order In Time       : true
+------------------------------------------
+
+Order ID            : 4
+Created At          : 2026-08-02 12:50:34
+Collection Duration : 10
+Delivery Duration   : 10
+Lead Time           : 35
+ETA                 : 35
+Order In Time       : true
+------------------------------------------
+
+Order ID            : 5
+Created At          : 2026-08-01 16:50:34
+Collection Duration : 15
+Delivery Duration   : 15
+Lead Time           : 45
+ETA                 : 45
+Order In Time       : true
+------------------------------------------
+
+Order ID            : 6
+Created At          : 2026-08-01 14:50:34
+Collection Duration : 20
+Delivery Duration   : 30
+Lead Time           : 65
+ETA                 : 30
+Order In Time       : false
+------------------------------------------
+
+Order ID            : 7
+Created At          : 2026-07-31 16:50:34
+Collection Duration : 15
+Delivery Duration   : 40
+Lead Time           : 70
+ETA                 : 35
+Order In Time       : false
+------------------------------------------
+
+Order ID            : 8
+Created At          : 2026-07-30 16:50:34
+Collection Duration : 25
+Delivery Duration   : 35
+Lead Time           : 75
+ETA                 : 40
+Order In Time       : false
+------------------------------------------
+
+Order ID            : 9
+Created At          : 2026-07-29 16:50:34
+Collection Duration : 15
+Delivery Duration   : 45
+Lead Time           : 75
+ETA                 : 35
+Order In Time       : false
+------------------------------------------
+
+Order ID            : 10
+Created At          : 2026-07-28 17:50:34
+Collection Duration : 20
+Delivery Duration   : 40
+Lead Time           : 75
+ETA                 : 45
+Order In Time       : false
+------------------------------------------
+
+==========================================
+END OF REPORT
+==========================================

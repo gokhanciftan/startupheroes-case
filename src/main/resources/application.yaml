@@ -1,0 +1,32 @@
+spring:
+  application:
+    name: startupheroes-case
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/startupheroes
+    username: postgres
+    password: postgres
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: create
+    defer-datasource-initialization: true
+    show-sql: true
+    open-in-view: false
+    properties:
+      hibernate:
+        format_sql: true
+
+  kafka:
+    bootstrap-servers: localhost:29092
+
+    admin:
+      auto-create: true
+
+app:
+  kafka:
+    topic: order_delivery_statistics
+
+server:
+  port: 8081
