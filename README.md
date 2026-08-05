@@ -284,7 +284,7 @@ The report contains:
 ### Clone the repository
 
 ```bash
-git clone [<repository-url>](https://github.com/gokhanciftan/startupheroes-case.git)
+git clone https://github.com/gokhanciftan/startupheroes-case.git
 ```
 
 ### Start Docker containers
